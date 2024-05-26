@@ -35,5 +35,6 @@ In this small project, build out this Testimonials Grid Section and get it looki
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+- CSS Flex
 - Mobile-first workflow
 

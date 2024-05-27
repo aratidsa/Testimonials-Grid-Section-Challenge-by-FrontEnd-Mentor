@@ -20,12 +20,16 @@ In this small project, build out this Testimonials Grid Section and get it looki
 
 ### Screenshot
 - Desktop
-  
+  ![Screenshot 2024-05-27 205414](https://github.com/aratidsa/Testimonials-Grid-Section-Challenge-by-FrontEnd-Mentor/assets/128802362/8b7d2747-62b9-4db9-9622-b5da9945e282)
+
 - Mobile
+  
+ ![Screenshot 2024-05-27 205438](https://github.com/aratidsa/Testimonials-Grid-Section-Challenge-by-FrontEnd-Mentor/assets/128802362/a97ba978-851b-4d40-8306-b0f01d7f3275)
+
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/aratidsa/Testimonials-Grid-Section-Challenge-by-FrontEnd-Mentor/tree/main
 - Live Site URL: 
 
 ## My process

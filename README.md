@@ -30,7 +30,7 @@ In this small project, build out this Testimonials Grid Section and get it looki
 ### Links
 
 - Solution URL: https://github.com/aratidsa/Testimonials-Grid-Section-Challenge-by-FrontEnd-Mentor/tree/main
-- Live Site URL: 
+- Live Site URL: https://design-testimonial-grid-section.netlify.app/
 
 ## My process
 
